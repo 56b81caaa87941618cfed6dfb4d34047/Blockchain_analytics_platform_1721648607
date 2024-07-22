@@ -131,5 +131,24 @@
         "static": false,
         "isDraggable": true,
         "isResizable": true
+    },
+    "dark_footer_component_1721648662.js": {
+        "id": "dark_footer_component-74b3a351-105c-5c10-e43f-036ac96f20df",
+        "name": "dark_footer_component",
+        "type": "markdown",
+        "metadata": {},
+        "w": 7,
+        "h": 7,
+        "x": "50",
+        "y": "50",
+        "i": "__dropping-elem__",
+        "minW": 3,
+        "maxW": 12,
+        "minH": 1,
+        "maxH": 20,
+        "moved": false,
+        "static": false,
+        "isDraggable": true,
+        "isResizable": true
     }
 }
