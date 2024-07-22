@@ -169,5 +169,24 @@
         "static": false,
         "isDraggable": true,
         "isResizable": true
+    },
+    "testimonial_section_with_three_column_1721648688.js": {
+        "id": "testimonial_section_with_three_column-cc06fbae-adb0-c22b-dd77-3b3e4cf3bba4",
+        "name": "testimonial_section_with_three_column",
+        "type": "markdown",
+        "metadata": {},
+        "w": 12,
+        "h": 8,
+        "x": "100",
+        "y": "50",
+        "i": "__dropping-elem__",
+        "minW": 3,
+        "maxW": 12,
+        "minH": 1,
+        "maxH": 12,
+        "moved": false,
+        "static": false,
+        "isDraggable": true,
+        "isResizable": true
     }
 }
